@@ -10,7 +10,7 @@ describe('Beach forecast functional tests', () => {
           {
             lat: -33.792726,
             lng: 151.289824,
-            name: 'Manly',
+            name: 'Manlye',
             position: 'E',
             rating: 2,
             swellDirection: 64.26,
